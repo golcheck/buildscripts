@@ -102,7 +102,6 @@ export PREFS_FROM_SOURCE
 lunch "cm_$DEVICE-userdebug";
 echo -e "${bldblu}Starting compilation${txtrst}"
 mka bacon
-fi
 echo -e ""
 
 # Get elapsed time
